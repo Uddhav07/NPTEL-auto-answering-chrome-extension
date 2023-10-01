@@ -1,0 +1,17 @@
+{
+  "name" : "auto Happiness quiz filler",
+  "version" : "0.0.1",
+  "permissions": ["scripting", "activeTab","tabs","scripting"],
+  "manifest_version" : 3,
+
+  "icons": {
+      "128": "NPTEL_logo_128.png"
+  },
+
+  "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+          "128": "NPTEL_logo_128.png"
+      }
+  }
+}
